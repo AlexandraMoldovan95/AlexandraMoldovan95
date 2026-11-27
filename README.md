@@ -10,6 +10,7 @@ Years of root-causing real production issues - reading logs, reproducing edge ca
 
 Nine small, real products, each scoped and tested like something a client would actually pay for - not tutorial clones:
 
+- A Windows app published in the Microsoft Store: [Note Organizer](https://apps.microsoft.com/detail/9NBS2548QTXF), free, for Windows 11
 - Authentication and row-level security on Postgres (Supabase)
 - A service-worker PWA
 - AI features, both server-side and bring-your-own-key
