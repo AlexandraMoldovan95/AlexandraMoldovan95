@@ -1,6 +1,6 @@
 # Alexandra Moldovan
 
-Technical support engineer (3 years, HP EMEA L1) transitioning into QA and AI-assisted development. Currently on a focused, self-directed career break: a certification program in AI-assisted app development (Step IT Academy), nine shipped end-to-end projects built as proof rather than claims, and self-study toward ISTQB Foundation Level.
+Technical support engineer (3 years, HP EMEA L1) transitioning into QA, UI design and AI-assisted development. Currently on a focused, self-directed career break: a certification program in AI-assisted app development (Step IT Academy), nine shipped end-to-end projects built as proof rather than claims, and self-study toward ISTQB Foundation Level.
 
 ## What support gave me
 
@@ -26,6 +26,6 @@ Nine small, real products, each scoped and tested like something a client would 
 
 - Studying for ISTQB Foundation Level, self-directed
 - Finishing and polishing the nine portfolio projects
-- Looking at QA / entry-level development roles
+- Open to roles in QA, UI and product design, AI development, or AI engineering
 
 Full write-ups and live demos: [alexandra-moldovan.netlify.app](https://alexandra-moldovan.netlify.app/)
